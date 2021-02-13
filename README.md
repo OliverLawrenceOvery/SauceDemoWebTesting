@@ -1,5 +1,7 @@
 # Mini Automated Web Testing Project 
 
+## NOTE: Full commit history and project board for this project can be found at https://github.com/zakkazmanli/saucedemo_mp
+
 ## Project Goal
 The goal of this project was to create a testing framework to support the automation testing of https://www.saucedemo.com/. This website was specifically created for the purposes of automation testing and as such supports multiple utilities of widely used websites, such as sign-in functionality and the ability to add items to a cart to be later checked out. This framework was to be created adhering to the POM design approach for automation testing, with the following tools used:
 
